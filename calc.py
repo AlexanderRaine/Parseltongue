@@ -7,5 +7,5 @@ if what == "+":
 elif what == "-":
     c = a - b
 else:
-    print("Zatrahalo")
+    print("Zatrahal")
 print(c)
