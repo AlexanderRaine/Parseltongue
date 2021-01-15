@@ -1,4 +1,6 @@
-def createsmth(Point):
-    print(Point)
+print("hello world")
 
-createsmth( 1 )
+print (3 + 5)
+
+name = input("How to play Dota 2? ")
+print("Hello \n"+name)
